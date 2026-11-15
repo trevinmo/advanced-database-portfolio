@@ -1,0 +1,81 @@
+Portfolio 2: Query Processing and Optimisation
+
+
+1. Introduction
+
+This portfolio demonstrates SQL query processing and query optimisation using the Miva Digital Library Management System.
+
+The database was implemented using SQLite and contains four relational tables: Members, Books, Categories, and Loans.
+
+
+
+2. SQL Query Implementation
+
+Four SQL queries were developed to retrieve and analyse information stored in the library database.
+
+
+Query 1: Available Books
+
+This query retrieves books with at least one available copy.
+
+
+Query 2: Borrowed Books
+
+This query uses SQL JOIN operations to combine information from the Members, Books, and Loans tables. It displays the names of borrowers, book titles, and borrowing dates.
+
+
+Query 3: Books by Category
+
+This query uses COUNT and GROUP BY to determine the number of book records associated with each category.
+
+
+Query 4: Overdue Books
+
+This query identifies borrowed books that have not been returned and whose due dates have passed.
+
+
+3. Query Optimisation
+
+Query optimisation was demonstrated by examining the execution plan for a query that searches for a book by title.
+
+
+Before creating an index, the query planner used a table scan to locate the matching book.
+
+
+An index named `idx_books_title` was then created on the title column of the Books table.
+
+
+After indexing, the query execution plan showed that SQLite could use the index to search for matching records.
+
+
+
+4. Performance Analysis
+
+The execution plans demonstrate a change in the query access method from a table scan to an indexed search.
+
+
+Indexing can improve search performance in larger databases by reducing the amount of data that must be examined.
+
+
+However, because the sample database contains only five books, the exercise does not establish a measurable improvement in execution speed.
+
+
+
+5. Conclusion
+
+This portfolio demonstrates SQL data retrieval, table joins, aggregation, filtering, and indexing.
+
+
+The exercise shows how execution plans can be used to examine database queries and how indexes can influence query processing.
+
+
+
+6. Evidence
+
+The following files provide implementation evidence:
+
+- queries.sql
+- optimisation.sql
+- query-results.png
+- before-index.png
+- after-index.png
