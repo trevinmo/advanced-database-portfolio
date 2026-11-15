@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lVzV2GrD57P7zZ_oO5pK">
+    <mxGraphModel dx="718" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFImr-tepVCdBgn74rbz-174" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="170" width="335" x="240" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-168" parent="ZFImr-tepVCdBgn74rbz-174" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="170" width="335" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-169" parent="ZFImr-tepVCdBgn74rbz-174" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=15;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Library Application&lt;/h1&gt;&lt;p&gt;Students and librarians&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="27.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-175" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="170" width="335" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-171" parent="ZFImr-tepVCdBgn74rbz-175" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="170" width="335" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-173" parent="ZFImr-tepVCdBgn74rbz-175" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=15;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;MongoDB Atlas&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-size: 15px; font-weight: normal;&quot;&gt;Cloud Database Platform&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="27.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-176" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="335" x="240" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-177" parent="ZFImr-tepVCdBgn74rbz-176" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="140" width="335" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-178" parent="ZFImr-tepVCdBgn74rbz-176" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=15;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Primary Node&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-size: 15px; font-weight: normal;&quot;&gt;Main Database Server&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90.58823529411764" width="280" x="27.5" y="24.705882352941174" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-182" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="120" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-179" parent="ZFImr-tepVCdBgn74rbz-182" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-181" parent="ZFImr-tepVCdBgn74rbz-182" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=10;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Secondary Node 1&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-size: 10px; font-weight: normal;&quot;&gt;Replica Copy&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-184" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="440" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-185" parent="ZFImr-tepVCdBgn74rbz-184" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-186" parent="ZFImr-tepVCdBgn74rbz-184" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=10;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Secondary Node 2&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-size: 10px; font-weight: normal;&quot;&gt;Replica Copy&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-187" edge="1" parent="1" source="ZFImr-tepVCdBgn74rbz-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZFImr-tepVCdBgn74rbz-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-188" edge="1" parent="1" source="ZFImr-tepVCdBgn74rbz-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZFImr-tepVCdBgn74rbz-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-192" edge="1" parent="1" source="ZFImr-tepVCdBgn74rbz-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZFImr-tepVCdBgn74rbz-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFImr-tepVCdBgn74rbz-193" edge="1" parent="1" source="ZFImr-tepVCdBgn74rbz-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZFImr-tepVCdBgn74rbz-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
